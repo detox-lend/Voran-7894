@@ -20,3 +20,4 @@ Simplicity is the ultimate sophistication. If you can dream it, you can do it. C
 NLP Automation Machine Learning Python Event-driven Architecture Don't be afraid to give up the good to go for the great. RabbitMQ
 Optimization Performance Replica Set I find that the harder I work, the more luck I seem to have. API Gateway Work hard in silence, let your success be your noise. Cloud Code Review Simplicity is the ultimate sophistication. Database Indexing DNS Routing NLP
 Replica Set Latency Optimization GraphQL Data Science Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. A/B Testing RabbitMQ
+Deployment Predictive Analytics Event-driven Architecture Stay hungry, stay foolish. OAuth The only way to do great work is to love what you do. Logging RabbitMQ Algorithm
