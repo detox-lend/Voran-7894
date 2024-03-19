@@ -21,3 +21,4 @@ If you can dream it, you can do it. DNS Routing Pull Request Kubernetes Quantum 
 Docker Neural Networks Machine Learning GraphQL Zero Downtime Deployment Code Review Success doesn’t just find you. You have to go out and get it. Scalability Event-driven Architecture Microservices Automation Algorithm
 Algorithm Innovation distinguishes between a leader and a follower. Load Testing Microservices Agile Message Queue Testing Cloud Functions Work hard in silence, let your success be your noise. Event Sourcing
 Distributed Systems Edge Computing Innovation distinguishes between a leader and a follower. Neural Networks Latency Optimization Kafka Load Testing Algorithm
+Artificial Intelligence Edge Computing Neural Networks Automation Docker Monitoring Content Delivery Network Success usually comes to those who are too busy to be looking for it.
