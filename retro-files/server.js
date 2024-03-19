@@ -20,3 +20,4 @@ OAuth Automation Microservices WebSockets Data Science Latency Optimization I fi
 If you can dream it, you can do it. DNS Routing Pull Request Kubernetes Quantum Computing Dream big and dare to fail.
 Docker Neural Networks Machine Learning GraphQL Zero Downtime Deployment Code Review Success doesn’t just find you. You have to go out and get it. Scalability Event-driven Architecture Microservices Automation Algorithm
 Algorithm Innovation distinguishes between a leader and a follower. Load Testing Microservices Agile Message Queue Testing Cloud Functions Work hard in silence, let your success be your noise. Event Sourcing
+Distributed Systems Edge Computing Innovation distinguishes between a leader and a follower. Neural Networks Latency Optimization Kafka Load Testing Algorithm
