@@ -28,3 +28,4 @@ Machine Learning Agile Python Logging Edge Computing React NLP Message Queue
 Pull Request DNS Routing Neural Networks Success is not in what you have, but who you are. WebSockets Serverless API Lambda Functions Zero Downtime Deployment
 Multi-threading React Security Performance Backend Testing Agile WebSockets Stay hungry, stay foolish. UX Optimization Edge Computing Frontend Version Control
 Load Balancing Testing JavaScript Optimization Opportunities don't happen. You create them. Sharding Security Python Data Pipeline
+Algorithm Frontend Act as if what you do makes a difference. It does. Python Performance Agile Backend
