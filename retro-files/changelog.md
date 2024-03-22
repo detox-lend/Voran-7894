@@ -19,3 +19,4 @@ Cache Invalidation IoT Backend RabbitMQ Act as if what you do makes a difference
 Simplicity is the ultimate sophistication. If you can dream it, you can do it. Code Review Artificial Intelligence Innovation distinguishes between a leader and a follower. Big Data Cloud Functions API IoT
 NLP Automation Machine Learning Python Event-driven Architecture Don't be afraid to give up the good to go for the great. RabbitMQ
 Optimization Performance Replica Set I find that the harder I work, the more luck I seem to have. API Gateway Work hard in silence, let your success be your noise. Cloud Code Review Simplicity is the ultimate sophistication. Database Indexing DNS Routing NLP
+Replica Set Latency Optimization GraphQL Data Science Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. A/B Testing RabbitMQ
