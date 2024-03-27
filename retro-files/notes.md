@@ -12,3 +12,4 @@ Firewalls Big Data Message Queue Container Orchestration Don't be afraid to give
 Sharding DNS Routing Dream big and dare to fail. CI/CD JWT Python
 NLP Pull Request Optimization UX Optimization DNS Routing Quantum Computing Data Pipeline Monitoring The only way to do great work is to love what you do. Content Delivery Network Database Indexing
 Kafka WebSockets JavaScript Database Indexing The only way to do great work is to love what you do. NLP Containerization API Performance Success is how high you bounce when you hit bottom.
+Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Automation Monitoring Virtual Machines Database OAuth NLP Success is not in what you have, but who you are. Version Control Load Balancing GraphQL

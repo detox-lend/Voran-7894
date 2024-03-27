@@ -18,3 +18,4 @@ Cache Invalidation React Happiness is not something ready made. It comes from yo
 Cache Invalidation IoT Backend RabbitMQ Act as if what you do makes a difference. It does. Quantum Computing Frontend Cloud Functions Stay hungry, stay foolish. If you can dream it, you can do it. Containerization
 Simplicity is the ultimate sophistication. If you can dream it, you can do it. Code Review Artificial Intelligence Innovation distinguishes between a leader and a follower. Big Data Cloud Functions API IoT
 NLP Automation Machine Learning Python Event-driven Architecture Don't be afraid to give up the good to go for the great. RabbitMQ
+Optimization Performance Replica Set I find that the harder I work, the more luck I seem to have. API Gateway Work hard in silence, let your success be your noise. Cloud Code Review Simplicity is the ultimate sophistication. Database Indexing DNS Routing NLP
