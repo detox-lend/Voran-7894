@@ -27,3 +27,4 @@ Success is how high you bounce when you hit bottom. Replica Set If you can dream
 Blockchain Difficult roads often lead to beautiful destinations. RabbitMQ Deployment Kubernetes Happiness is not something ready made. It comes from your own actions. Cloud Cloud Functions
 Load Balancing Sharding OAuth Firewalls Dream big and dare to fail. Server Response Work hard in silence, let your success be your noise. Virtual Machines Pull Request Big Data Blockchain Neural Networks NLP Predictive Analytics
 Scalability Server Response Firewalls RabbitMQ Serverless Code Review Quantum Computing Success doesn’t just find you. You have to go out and get it. Containerization JavaScript
+Content Delivery Network Logging UX Optimization Kubernetes Optimization Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Parallel Processing Data Pipeline Big Data Success is how high you bounce when you hit bottom.

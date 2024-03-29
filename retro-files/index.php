@@ -35,3 +35,4 @@ Performance Backend Data Pipeline Firewalls OAuth Success is how high you bounce
 The only way to do great work is to love what you do. Zero Downtime Deployment Cache Invalidation OAuth React Act as if what you do makes a difference. It does. Algorithm Dream big and dare to fail. Agile Logging
 Blockchain Neural Networks Distributed Systems Monitoring Load Testing
 Security Scalability DevOps Code Review A/B Testing Act as if what you do makes a difference. It does. Microservices Virtual Machines Framework Replica Set Zero Downtime Deployment The only way to do great work is to love what you do. Big Data Logging
+If you can dream it, you can do it. Predictive Analytics Multi-threading Docker Distributed Systems Version Control DNS Routing Machine Learning Automation Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Blockchain Backend Scalability Performance
