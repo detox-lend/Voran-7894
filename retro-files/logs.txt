@@ -23,3 +23,4 @@ Version Control Replica Set NLP Agile Distributed Systems Code Review
 Dream big and dare to fail. Latency Optimization OAuth Content Delivery Network Edge Computing RabbitMQ Backend
 Docker Dream big and dare to fail. Cloud Functions Backend Algorithm Kubernetes Innovation distinguishes between a leader and a follower. Scalability Content Delivery Network GraphQL RabbitMQ
 Event-driven Architecture Monitoring Agile Cache Invalidation Python Container Orchestration Virtual Machines Big Data Distributed Systems Content Delivery Network Server Response Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. GraphQL A/B Testing
+WebSockets Work hard in silence, let your success be your noise. GraphQL Success usually comes to those who are too busy to be looking for it. Virtual Machines Container Orchestration OAuth Database Indexing Performance NLP
