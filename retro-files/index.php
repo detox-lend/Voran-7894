@@ -34,3 +34,4 @@ Optimization If you can dream it, you can do it. Replica Set To be the best, you
 Performance Backend Data Pipeline Firewalls OAuth Success is how high you bounce when you hit bottom. Neural Networks API Database Indexing To be the best, you must be able to handle the worst. Server Response IoT Parallel Processing Container Orchestration
 The only way to do great work is to love what you do. Zero Downtime Deployment Cache Invalidation OAuth React Act as if what you do makes a difference. It does. Algorithm Dream big and dare to fail. Agile Logging
 Blockchain Neural Networks Distributed Systems Monitoring Load Testing
+Security Scalability DevOps Code Review A/B Testing Act as if what you do makes a difference. It does. Microservices Virtual Machines Framework Replica Set Zero Downtime Deployment The only way to do great work is to love what you do. Big Data Logging

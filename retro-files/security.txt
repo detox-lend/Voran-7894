@@ -26,3 +26,4 @@ Automation Docker Zero Downtime Deployment WebSockets Data Science I find that t
 Multi-threading Serverless To be the best, you must be able to handle the worst. Artificial Intelligence Big Data Success is not in what you have, but who you are. RabbitMQ Kafka Docker UX Optimization Event-driven Architecture
 Machine Learning Agile Python Logging Edge Computing React NLP Message Queue
 Pull Request DNS Routing Neural Networks Success is not in what you have, but who you are. WebSockets Serverless API Lambda Functions Zero Downtime Deployment
+Multi-threading React Security Performance Backend Testing Agile WebSockets Stay hungry, stay foolish. UX Optimization Edge Computing Frontend Version Control
