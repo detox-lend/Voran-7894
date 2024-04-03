@@ -21,3 +21,4 @@ Serverless Machine Learning Deployment Stay hungry, stay foolish. Success usuall
 Firewalls Cloud Multi-threading Content Delivery Network Event Sourcing OAuth API Gateway Performance Latency Optimization Database
 Deployment Simplicity is the ultimate sophistication. IoT CI/CD Event-driven Architecture NLP DNS Routing Innovation distinguishes between a leader and a follower. Blockchain
 Python Neural Networks Code Review Success is not in what you have, but who you are. Microservices Data Pipeline Innovation distinguishes between a leader and a follower. Serverless Testing Server Response To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have.
+JavaScript Version Control Big Data Event-driven Architecture Database Cloud Monitoring Firewalls CI/CD Load Testing Success is how high you bounce when you hit bottom. Server Response Backend Testing Scalability

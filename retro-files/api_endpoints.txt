@@ -18,3 +18,4 @@ Predictive Analytics Success doesn’t just find you. You have to go out and get i
 I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. RabbitMQ Containerization Code Review Data Science Event Sourcing Backend Data Pipeline
 DNS Routing Cloud Functions Great things never come from comfort zones. Kubernetes NLP Cloud
 Latency Optimization Container Orchestration Testing Stay hungry, stay foolish. Quantum Computing Framework Neural Networks Cloud Functions Predictive Analytics
+RabbitMQ Microservices Monitoring Great things never come from comfort zones. Big Data Backend DNS Routing Data Pipeline Automation API Simplicity is the ultimate sophistication. Scalability Kafka Cache Invalidation
