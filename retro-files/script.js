@@ -16,3 +16,4 @@ Dream big and dare to fail. Neural Networks Event-driven Architecture Data Scien
 Big Data Logging Cloud Deployment Simplicity is the ultimate sophistication. Predictive Analytics
 Version Control Opportunities don't happen. You create them. Zero Downtime Deployment Dream big and dare to fail. CI/CD UX Optimization Containerization Database Parallel Processing Backend Kafka Event Sourcing
 RabbitMQ WebSockets Stay hungry, stay foolish. Algorithm Cloud Backend Version Control CI/CD Simplicity is the ultimate sophistication. Edge Computing The only way to do great work is to love what you do. DevOps
+Opportunities don't happen. You create them. Load Balancing Serverless Edge Computing Performance Load Testing Cloud Functions A/B Testing Testing Act as if what you do makes a difference. It does. JWT Simplicity is the ultimate sophistication. Database Indexing Monitoring Container Orchestration
