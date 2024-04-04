@@ -17,3 +17,4 @@ Simplicity is the ultimate sophistication. DevOps Database Indexing Kafka Quantu
 Predictive Analytics Success doesn’t just find you. You have to go out and get it. Serverless Neural Networks Containerization JWT WebSockets GraphQL Microservices Content Delivery Network Message Queue I find that the harder I work, the more luck I seem to have. Blockchain Simplicity is the ultimate sophistication.
 I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. RabbitMQ Containerization Code Review Data Science Event Sourcing Backend Data Pipeline
 DNS Routing Cloud Functions Great things never come from comfort zones. Kubernetes NLP Cloud
+Latency Optimization Container Orchestration Testing Stay hungry, stay foolish. Quantum Computing Framework Neural Networks Cloud Functions Predictive Analytics
