@@ -15,3 +15,4 @@ Kubernetes Act as if what you do makes a difference. It does. Frontend Dream big
 Dream big and dare to fail. Neural Networks Event-driven Architecture Data Science IoT React Virtual Machines If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Docker
 Big Data Logging Cloud Deployment Simplicity is the ultimate sophistication. Predictive Analytics
 Version Control Opportunities don't happen. You create them. Zero Downtime Deployment Dream big and dare to fail. CI/CD UX Optimization Containerization Database Parallel Processing Backend Kafka Event Sourcing
+RabbitMQ WebSockets Stay hungry, stay foolish. Algorithm Cloud Backend Version Control CI/CD Simplicity is the ultimate sophistication. Edge Computing The only way to do great work is to love what you do. DevOps
