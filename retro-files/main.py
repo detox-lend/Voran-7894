@@ -25,3 +25,4 @@ To be the best, you must be able to handle the worst. Version Control Python Qua
 Optimization Serverless Lambda Functions Python Load Balancing Logging Data Science Security
 API Gateway To be the best, you must be able to handle the worst. Deployment Frontend A/B Testing Simplicity is the ultimate sophistication. Backend Latency Optimization Edge Computing Cloud OAuth Kafka
 Cache Invalidation Opportunities don't happen. You create them. Quantum Computing UX Optimization Content Delivery Network Act as if what you do makes a difference. It does. Backend Latency Optimization API Gateway Testing Automation Artificial Intelligence Blockchain Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it.
+Firewalls Event Sourcing Database Python CI/CD Success usually comes to those who are too busy to be looking for it. Content Delivery Network
