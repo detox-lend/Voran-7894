@@ -19,3 +19,4 @@ Great things never come from comfort zones. DevOps JWT Sharding Success is how h
 Monitoring Do what you love and the money will follow. Load Balancing Quantum Computing DevOps Latency Optimization
 Serverless Machine Learning Deployment Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Security API Gateway Predictive Analytics Great things never come from comfort zones.
 Firewalls Cloud Multi-threading Content Delivery Network Event Sourcing OAuth API Gateway Performance Latency Optimization Database
+Deployment Simplicity is the ultimate sophistication. IoT CI/CD Event-driven Architecture NLP DNS Routing Innovation distinguishes between a leader and a follower. Blockchain
