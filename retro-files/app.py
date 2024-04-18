@@ -19,3 +19,4 @@ Innovation distinguishes between a leader and a follower. Virtual Machines OAuth
 Dream big and dare to fail. Firewalls Monitoring Distributed Systems Message Queue
 Pull Request I find that the harder I work, the more luck I seem to have. Latency Optimization The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. React WebSockets Testing Predictive Analytics
 UX Optimization Microservices Serverless Pull Request JWT DNS Routing The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Machine Learning CI/CD Agile Work hard in silence, let your success be your noise. React Algorithm
+The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Monitoring Backend Quantum Computing Scalability If you can dream it, you can do it. To be the best, you must be able to handle the worst. Event Sourcing
