@@ -31,3 +31,4 @@ Logging Big Data Performance Monitoring Database Indexing Algorithm Server Respo
 Monitoring Database Indexing JavaScript Serverless Microservices
 Server Response Event-driven Architecture Load Testing Data Science CI/CD Sharding Logging Happiness is not something ready made. It comes from your own actions.
 Optimization If you can dream it, you can do it. Replica Set To be the best, you must be able to handle the worst. Load Balancing OAuth Event-driven Architecture RabbitMQ CI/CD Edge Computing
+Performance Backend Data Pipeline Firewalls OAuth Success is how high you bounce when you hit bottom. Neural Networks API Database Indexing To be the best, you must be able to handle the worst. Server Response IoT Parallel Processing Container Orchestration

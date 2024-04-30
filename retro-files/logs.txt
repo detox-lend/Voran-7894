@@ -21,3 +21,4 @@ Success usually comes to those who are too busy to be looking for it. Opportunit
 Multi-threading Content Delivery Network Latency Optimization IoT Parallel Processing Zero Downtime Deployment Microservices UX Optimization Pull Request
 Version Control Replica Set NLP Agile Distributed Systems Code Review
 Dream big and dare to fail. Latency Optimization OAuth Content Delivery Network Edge Computing RabbitMQ Backend
+Docker Dream big and dare to fail. Cloud Functions Backend Algorithm Kubernetes Innovation distinguishes between a leader and a follower. Scalability Content Delivery Network GraphQL RabbitMQ

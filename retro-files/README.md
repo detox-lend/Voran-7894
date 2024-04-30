@@ -20,3 +20,4 @@ Big Data API Virtual Machines Don't be afraid to give up the good to go for the 
 Multi-threading Event Sourcing Message Queue Agile Success is how high you bounce when you hit bottom. WebSockets Latency Optimization OAuth A/B Testing I find that the harder I work, the more luck I seem to have.
 Event-driven Architecture Neural Networks Code Review GraphQL If you can dream it, you can do it.
 Message Queue Server Response API Latency Optimization DNS Routing Difficult roads often lead to beautiful destinations. React The only way to do great work is to love what you do. Parallel Processing Frontend Algorithm
+Kafka Don't be afraid to give up the good to go for the great. Replica Set Do what you love and the money will follow. React Docker API Dream big and dare to fail. Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Serverless Kubernetes Sharding
