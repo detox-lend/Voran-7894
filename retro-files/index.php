@@ -30,3 +30,4 @@ Blockchain Logging API Gateway Simplicity is the ultimate sophistication. GraphQ
 Logging Big Data Performance Monitoring Database Indexing Algorithm Server Response Happiness is not something ready made. It comes from your own actions. UX Optimization Kubernetes Lambda Functions Data Pipeline IoT DevOps
 Monitoring Database Indexing JavaScript Serverless Microservices
 Server Response Event-driven Architecture Load Testing Data Science CI/CD Sharding Logging Happiness is not something ready made. It comes from your own actions.
+Optimization If you can dream it, you can do it. Replica Set To be the best, you must be able to handle the worst. Load Balancing OAuth Event-driven Architecture RabbitMQ CI/CD Edge Computing
