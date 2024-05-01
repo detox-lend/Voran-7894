@@ -24,3 +24,4 @@ The only way to do great work is to love what you do. Security React Code Review
 Backend Zero Downtime Deployment Security Firewalls Serverless Database Edge Computing
 Automation Docker Zero Downtime Deployment WebSockets Data Science I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Monitoring
 Multi-threading Serverless To be the best, you must be able to handle the worst. Artificial Intelligence Big Data Success is not in what you have, but who you are. RabbitMQ Kafka Docker UX Optimization Event-driven Architecture
+Machine Learning Agile Python Logging Edge Computing React NLP Message Queue
