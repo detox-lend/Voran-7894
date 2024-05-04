@@ -11,3 +11,4 @@ Simplicity is the ultimate sophistication. Database Agile To be the best, you mu
 Firewalls Big Data Message Queue Container Orchestration Don't be afraid to give up the good to go for the great. Docker Cache Invalidation Database Parallel Processing Testing Optimization Monitoring Performance Predictive Analytics WebSockets
 Sharding DNS Routing Dream big and dare to fail. CI/CD JWT Python
 NLP Pull Request Optimization UX Optimization DNS Routing Quantum Computing Data Pipeline Monitoring The only way to do great work is to love what you do. Content Delivery Network Database Indexing
+Kafka WebSockets JavaScript Database Indexing The only way to do great work is to love what you do. NLP Containerization API Performance Success is how high you bounce when you hit bottom.
