@@ -14,3 +14,4 @@ Data Pipeline Message Queue Serverless Version Control Data Science
 Kubernetes Act as if what you do makes a difference. It does. Frontend Dream big and dare to fail. If you can dream it, you can do it. Container Orchestration Testing I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Agile Event-driven Architecture
 Dream big and dare to fail. Neural Networks Event-driven Architecture Data Science IoT React Virtual Machines If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Docker
 Big Data Logging Cloud Deployment Simplicity is the ultimate sophistication. Predictive Analytics
+Version Control Opportunities don't happen. You create them. Zero Downtime Deployment Dream big and dare to fail. CI/CD UX Optimization Containerization Database Parallel Processing Backend Kafka Event Sourcing
