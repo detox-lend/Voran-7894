@@ -22,3 +22,4 @@ Monitoring Cache Invalidation Scalability Replica Set Backend Deployment The onl
 Monitoring Dream big and dare to fail. Data Pipeline Server Response Distributed Systems Serverless Database
 Cache Invalidation Happiness is not something ready made. It comes from your own actions. Algorithm Don't be afraid to give up the good to go for the great. Security Artificial Intelligence UX Optimization
 CI/CD Difficult roads often lead to beautiful destinations. Parallel Processing GraphQL Performance Opportunities don't happen. You create them. Database Logging Virtual Machines API Gateway Stay hungry, stay foolish. UX Optimization
+Code Review JWT Great things never come from comfort zones. Backend Artificial Intelligence Container Orchestration Neural Networks Parallel Processing Python API Gateway Cloud Functions Innovation distinguishes between a leader and a follower. Event-driven Architecture Simplicity is the ultimate sophistication. Dream big and dare to fail.
