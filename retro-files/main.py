@@ -23,3 +23,4 @@ Python Containerization DevOps Database Content Delivery Network Quantum Computi
 Load Balancing Algorithm Do what you love and the money will follow. Version Control Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Firewalls
 To be the best, you must be able to handle the worst. Version Control Python Quantum Computing Lambda Functions Multi-threading Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Logging Sharding
 Optimization Serverless Lambda Functions Python Load Balancing Logging Data Science Security
+API Gateway To be the best, you must be able to handle the worst. Deployment Frontend A/B Testing Simplicity is the ultimate sophistication. Backend Latency Optimization Edge Computing Cloud OAuth Kafka
