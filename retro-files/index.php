@@ -29,3 +29,4 @@ Backend Message Queue GraphQL IoT Neural Networks Algorithm The only way to do g
 Blockchain Logging API Gateway Simplicity is the ultimate sophistication. GraphQL Version Control Database Indexing Artificial Intelligence
 Logging Big Data Performance Monitoring Database Indexing Algorithm Server Response Happiness is not something ready made. It comes from your own actions. UX Optimization Kubernetes Lambda Functions Data Pipeline IoT DevOps
 Monitoring Database Indexing JavaScript Serverless Microservices
+Server Response Event-driven Architecture Load Testing Data Science CI/CD Sharding Logging Happiness is not something ready made. It comes from your own actions.
