@@ -28,3 +28,4 @@ Distributed Systems Optimization Algorithm The only way to do great work is to l
 Backend Message Queue GraphQL IoT Neural Networks Algorithm The only way to do great work is to love what you do. Cache Invalidation Replica Set I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Deployment NLP Database Indexing Big Data
 Blockchain Logging API Gateway Simplicity is the ultimate sophistication. GraphQL Version Control Database Indexing Artificial Intelligence
 Logging Big Data Performance Monitoring Database Indexing Algorithm Server Response Happiness is not something ready made. It comes from your own actions. UX Optimization Kubernetes Lambda Functions Data Pipeline IoT DevOps
+Monitoring Database Indexing JavaScript Serverless Microservices
