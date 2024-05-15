@@ -15,3 +15,4 @@ RabbitMQ Frontend Opportunities don't happen. You create them. Containerization 
 Frontend Algorithm Containerization Success is not in what you have, but who you are. Quantum Computing Artificial Intelligence Predictive Analytics Content Delivery Network Cache Invalidation DNS Routing GraphQL Firewalls
 Docker A/B Testing Framework Backend Security
 Cache Invalidation React Happiness is not something ready made. It comes from your own actions. Event Sourcing Frontend Cloud Latency Optimization Optimization CI/CD Agile Pull Request Great things never come from comfort zones. Testing
+Cache Invalidation IoT Backend RabbitMQ Act as if what you do makes a difference. It does. Quantum Computing Frontend Cloud Functions Stay hungry, stay foolish. If you can dream it, you can do it. Containerization
