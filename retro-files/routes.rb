@@ -16,3 +16,4 @@ Great things never come from comfort zones. The only way to do great work is to 
 Event-driven Architecture UX Optimization Kubernetes Dream big and dare to fail. Act as if what you do makes a difference. It does. Lambda Functions Container Orchestration Algorithm Edge Computing DNS Routing JavaScript
 Predictive Analytics Great things never come from comfort zones. Serverless RabbitMQ Framework Database Content Delivery Network Innovation distinguishes between a leader and a follower. Blockchain Testing Opportunities don't happen. You create them. NLP Neural Networks
 IoT Event-driven Architecture RabbitMQ Cloud Functions Neural Networks Performance Containerization
+Deployment Pull Request Python Load Testing Success is not in what you have, but who you are. Parallel Processing Message Queue API NLP Kubernetes Machine Learning JavaScript
