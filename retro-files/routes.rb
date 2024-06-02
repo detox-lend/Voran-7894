@@ -15,3 +15,4 @@ Big Data Automation Message Queue Machine Learning The only way to do great work
 Great things never come from comfort zones. The only way to do great work is to love what you do. GraphQL NLP A/B Testing Algorithm Monitoring Backend
 Event-driven Architecture UX Optimization Kubernetes Dream big and dare to fail. Act as if what you do makes a difference. It does. Lambda Functions Container Orchestration Algorithm Edge Computing DNS Routing JavaScript
 Predictive Analytics Great things never come from comfort zones. Serverless RabbitMQ Framework Database Content Delivery Network Innovation distinguishes between a leader and a follower. Blockchain Testing Opportunities don't happen. You create them. NLP Neural Networks
+IoT Event-driven Architecture RabbitMQ Cloud Functions Neural Networks Performance Containerization

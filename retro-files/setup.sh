@@ -19,3 +19,4 @@ Predictive Analytics Data Pipeline If you can dream it, you can do it. Serverles
 Success doesn’t just find you. You have to go out and get it. Automation Event Sourcing Multi-threading Algorithm Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Monitoring Version Control
 Edge Computing Cloud Work hard in silence, let your success be your noise. Container Orchestration GraphQL Backend A/B Testing JWT If you can dream it, you can do it. API Do what you love and the money will follow. Zero Downtime Deployment DNS Routing React Distributed Systems
 Scalability Deployment NLP Replica Set Cloud Lambda Functions Zero Downtime Deployment Backend Message Queue Predictive Analytics
+UX Optimization Sharding A/B Testing GraphQL Logging

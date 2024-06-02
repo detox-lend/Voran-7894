@@ -21,3 +21,4 @@ Pull Request Great things never come from comfort zones. The only way to do grea
 Monitoring Cache Invalidation Scalability Replica Set Backend Deployment The only way to do great work is to love what you do. Success is not in what you have, but who you are. Framework Data Pipeline Event-driven Architecture Server Response
 Monitoring Dream big and dare to fail. Data Pipeline Server Response Distributed Systems Serverless Database
 Cache Invalidation Happiness is not something ready made. It comes from your own actions. Algorithm Don't be afraid to give up the good to go for the great. Security Artificial Intelligence UX Optimization
+CI/CD Difficult roads often lead to beautiful destinations. Parallel Processing GraphQL Performance Opportunities don't happen. You create them. Database Logging Virtual Machines API Gateway Stay hungry, stay foolish. UX Optimization
