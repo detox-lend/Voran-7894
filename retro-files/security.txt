@@ -22,3 +22,4 @@ Quantum Computing JavaScript Monitoring Framework Code Review Message Queue Pull
 If you can dream it, you can do it. DNS Routing Distributed Systems RabbitMQ Great things never come from comfort zones. JWT Difficult roads often lead to beautiful destinations.
 The only way to do great work is to love what you do. Security React Code Review Difficult roads often lead to beautiful destinations. Event-driven Architecture Docker Cloud Functions A/B Testing Neural Networks Kafka Success doesn’t just find you. You have to go out and get it. Database
 Backend Zero Downtime Deployment Security Firewalls Serverless Database Edge Computing
+Automation Docker Zero Downtime Deployment WebSockets Data Science I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Monitoring
