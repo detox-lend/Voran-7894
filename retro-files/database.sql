@@ -14,3 +14,4 @@ Great things never come from comfort zones. Docker Innovation distinguishes betw
 Work hard in silence, let your success be your noise. Serverless Security Microservices Lambda Functions Automation Database Indexing Opportunities don't happen. You create them. Code Review The only way to do great work is to love what you do. A/B Testing Don't be afraid to give up the good to go for the great.
 Scalability Code Review Message Queue Server Response Cache Invalidation Docker Cloud Load Balancing Do what you love and the money will follow.
 Dream big and dare to fail. Optimization If you can dream it, you can do it. Replica Set Firewalls CI/CD To be the best, you must be able to handle the worst. JWT Cloud Monitoring
+Don't be afraid to give up the good to go for the great. Kubernetes Quantum Computing Data Pipeline Edge Computing Replica Set React Difficult roads often lead to beautiful destinations. Cloud DevOps If you can dream it, you can do it. A/B Testing

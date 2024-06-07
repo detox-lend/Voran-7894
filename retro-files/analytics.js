@@ -14,3 +14,4 @@ API Gateway Blockchain The only way to do great work is to love what you do. Sec
 JavaScript Security Virtual Machines Replica Set Lambda Functions Load Balancing GraphQL If you can dream it, you can do it. Do what you love and the money will follow. Server Response
 Load Balancing If you can dream it, you can do it. Server Response Blockchain Firewalls Monitoring React GraphQL Great things never come from comfort zones. Container Orchestration Version Control Database Don't be afraid to give up the good to go for the great.
 Sharding Innovation distinguishes between a leader and a follower. Docker Success doesn’t just find you. You have to go out and get it. Lambda Functions Firewalls Distributed Systems If you can dream it, you can do it. Database
+Deployment OAuth Message Queue GraphQL Agile Automation Framework Simplicity is the ultimate sophistication.
