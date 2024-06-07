@@ -18,3 +18,4 @@ Happiness is not something ready made. It comes from your own actions. Agile Pre
 Python Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Microservices Automation Quantum Computing
 OAuth Automation Microservices WebSockets Data Science Latency Optimization I find that the harder I work, the more luck I seem to have. Edge Computing Cache Invalidation Multi-threading
 If you can dream it, you can do it. DNS Routing Pull Request Kubernetes Quantum Computing Dream big and dare to fail.
+Docker Neural Networks Machine Learning GraphQL Zero Downtime Deployment Code Review Success doesn’t just find you. You have to go out and get it. Scalability Event-driven Architecture Microservices Automation Algorithm

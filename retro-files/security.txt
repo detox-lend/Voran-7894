@@ -21,3 +21,4 @@ CI/CD Automation Logging Quantum Computing Edge Computing Optimization DNS Routi
 Quantum Computing JavaScript Monitoring Framework Code Review Message Queue Pull Request Virtual Machines I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Load Balancing Performance Automation The only way to do great work is to love what you do.
 If you can dream it, you can do it. DNS Routing Distributed Systems RabbitMQ Great things never come from comfort zones. JWT Difficult roads often lead to beautiful destinations.
 The only way to do great work is to love what you do. Security React Code Review Difficult roads often lead to beautiful destinations. Event-driven Architecture Docker Cloud Functions A/B Testing Neural Networks Kafka Success doesn’t just find you. You have to go out and get it. Database
+Backend Zero Downtime Deployment Security Firewalls Serverless Database Edge Computing
