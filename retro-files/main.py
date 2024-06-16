@@ -21,3 +21,4 @@ Success doesn’t just find you. You have to go out and get it. Load Testing Big D
 DevOps Database Indexing Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Latency Optimization
 Python Containerization DevOps Database Content Delivery Network Quantum Computing Performance OAuth Version Control Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication.
 Load Balancing Algorithm Do what you love and the money will follow. Version Control Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Firewalls
+To be the best, you must be able to handle the worst. Version Control Python Quantum Computing Lambda Functions Multi-threading Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Logging Sharding

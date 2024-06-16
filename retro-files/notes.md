@@ -8,3 +8,4 @@ Success doesn’t just find you. You have to go out and get it. Simplicity is the 
 Replica Set Event-driven Architecture Cloud Distributed Systems Container Orchestration Data Pipeline Automation Firewalls IoT
 Logging Data Science API Gateway Neural Networks Success is how high you bounce when you hit bottom. Frontend Quantum Computing
 Simplicity is the ultimate sophistication. Database Agile To be the best, you must be able to handle the worst. Cloud Functions Load Testing Big Data
+Firewalls Big Data Message Queue Container Orchestration Don't be afraid to give up the good to go for the great. Docker Cache Invalidation Database Parallel Processing Testing Optimization Monitoring Performance Predictive Analytics WebSockets
