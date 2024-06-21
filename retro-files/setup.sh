@@ -17,3 +17,4 @@ Predictive Analytics Load Testing DevOps Replica Set UX Optimization Cloud Paral
 Sharding JWT Replica Set Multi-threading Big Data Scalability Content Delivery Network
 Predictive Analytics Data Pipeline If you can dream it, you can do it. Serverless Server Response Quantum Computing Event Sourcing The only way to do great work is to love what you do. NLP WebSockets DNS Routing JavaScript
 Success doesn’t just find you. You have to go out and get it. Automation Event Sourcing Multi-threading Algorithm Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Monitoring Version Control
+Edge Computing Cloud Work hard in silence, let your success be your noise. Container Orchestration GraphQL Backend A/B Testing JWT If you can dream it, you can do it. API Do what you love and the money will follow. Zero Downtime Deployment DNS Routing React Distributed Systems
