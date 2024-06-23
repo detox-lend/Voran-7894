@@ -11,3 +11,4 @@ Blockchain Great things never come from comfort zones. Work hard in silence, let
 Code Review Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Firewalls Success is not in what you have, but who you are. Kafka Parallel Processing Virtual Machines To be the best, you must be able to handle the worst. WebSockets
 The only way to do great work is to love what you do. Cache Invalidation Database Indexing Event Sourcing Edge Computing
 Data Pipeline Message Queue Serverless Version Control Data Science
+Kubernetes Act as if what you do makes a difference. It does. Frontend Dream big and dare to fail. If you can dream it, you can do it. Container Orchestration Testing I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Agile Event-driven Architecture
