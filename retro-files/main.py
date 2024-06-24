@@ -20,3 +20,4 @@ Cache Invalidation Backend Event-driven Architecture Server Response Docker Succ
 Success doesn’t just find you. You have to go out and get it. Load Testing Big Data Automation Logging API Act as if what you do makes a difference. It does. Kafka React Work hard in silence, let your success be your noise.
 DevOps Database Indexing Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Latency Optimization
 Python Containerization DevOps Database Content Delivery Network Quantum Computing Performance OAuth Version Control Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication.
+Load Balancing Algorithm Do what you love and the money will follow. Version Control Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Firewalls
