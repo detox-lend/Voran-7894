@@ -17,3 +17,4 @@ Multi-threading Artificial Intelligence Container Orchestration Parallel Process
 Opportunities don't happen. You create them. Deployment Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Dream big and dare to fail. Content Delivery Network Kafka
 Database Message Queue Multi-threading Security Act as if what you do makes a difference. It does. Serverless Distributed Systems Difficult roads often lead to beautiful destinations. Predictive Analytics Happiness is not something ready made. It comes from your own actions. Framework Code Review GraphQL Machine Learning
 Cloud Automation CI/CD JavaScript Data Pipeline Work hard in silence, let your success be your noise.
+CI/CD Automation Logging Quantum Computing Edge Computing Optimization DNS Routing Performance IoT OAuth Blockchain Cloud Functions UX Optimization
