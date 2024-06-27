@@ -12,3 +12,4 @@ I find that the harder I work, the more luck I seem to have. NLP Deployment Big 
 WebSockets Pull Request API Database Indexing Opportunities don't happen. You create them. Dream big and dare to fail. Backend GraphQL Virtual Machines Machine Learning Automation
 API Gateway Blockchain The only way to do great work is to love what you do. Security Serverless Load Balancing Edge Computing GraphQL
 JavaScript Security Virtual Machines Replica Set Lambda Functions Load Balancing GraphQL If you can dream it, you can do it. Do what you love and the money will follow. Server Response
+Load Balancing If you can dream it, you can do it. Server Response Blockchain Firewalls Monitoring React GraphQL Great things never come from comfort zones. Container Orchestration Version Control Database Don't be afraid to give up the good to go for the great.
