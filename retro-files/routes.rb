@@ -13,3 +13,4 @@ IoT Container Orchestration Event-driven Architecture Message Queue DevOps WebSo
 DNS Routing GraphQL Frontend Big Data Lambda Functions Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Neural Networks Cloud Functions Zero Downtime Deployment
 Big Data Automation Message Queue Machine Learning The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Event Sourcing
 Great things never come from comfort zones. The only way to do great work is to love what you do. GraphQL NLP A/B Testing Algorithm Monitoring Backend
+Event-driven Architecture UX Optimization Kubernetes Dream big and dare to fail. Act as if what you do makes a difference. It does. Lambda Functions Container Orchestration Algorithm Edge Computing DNS Routing JavaScript

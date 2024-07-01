@@ -10,3 +10,4 @@ Artificial Intelligence GraphQL Frontend DNS Routing Load Balancing
 Blockchain Great things never come from comfort zones. Work hard in silence, let your success be your noise. Database Indexing Python CI/CD Automation Message Queue Kubernetes Do what you love and the money will follow. Data Science Predictive Analytics UX Optimization A/B Testing
 Code Review Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Firewalls Success is not in what you have, but who you are. Kafka Parallel Processing Virtual Machines To be the best, you must be able to handle the worst. WebSockets
 The only way to do great work is to love what you do. Cache Invalidation Database Indexing Event Sourcing Edge Computing
+Data Pipeline Message Queue Serverless Version Control Data Science
