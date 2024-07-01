@@ -16,3 +16,4 @@ API Gateway Framework Replica Set A/B Testing Quantum Computing Containerization
 Firewalls Machine Learning Algorithm Cloud Functions Success doesn’t just find you. You have to go out and get it. Containerization Data Pipeline Database CI/CD Version Control Event-driven Architecture
 Happiness is not something ready made. It comes from your own actions. Agile Predictive Analytics Deployment Event Sourcing Framework Python DevOps Scalability Pull Request Zero Downtime Deployment Frontend Server Response
 Python Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Microservices Automation Quantum Computing
+OAuth Automation Microservices WebSockets Data Science Latency Optimization I find that the harder I work, the more luck I seem to have. Edge Computing Cache Invalidation Multi-threading
