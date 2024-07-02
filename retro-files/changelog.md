@@ -13,3 +13,4 @@ Cloud Functions Happiness is not something ready made. It comes from your own ac
 Success is how high you bounce when you hit bottom. API Gateway Docker Testing To be the best, you must be able to handle the worst. Deployment Innovation distinguishes between a leader and a follower. Data Science Content Delivery Network Stay hungry, stay foolish. Event-driven Architecture Server Response
 RabbitMQ Frontend Opportunities don't happen. You create them. Containerization Firewalls Neural Networks Cache Invalidation Performance
 Frontend Algorithm Containerization Success is not in what you have, but who you are. Quantum Computing Artificial Intelligence Predictive Analytics Content Delivery Network Cache Invalidation DNS Routing GraphQL Firewalls
+Docker A/B Testing Framework Backend Security
