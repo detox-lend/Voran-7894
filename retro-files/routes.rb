@@ -12,3 +12,4 @@ Great things never come from comfort zones. Replica Set OAuth Event-driven Archi
 IoT Container Orchestration Event-driven Architecture Message Queue DevOps WebSockets Opportunities don't happen. You create them. Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Sharding NLP Framework Optimization Database
 DNS Routing GraphQL Frontend Big Data Lambda Functions Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Neural Networks Cloud Functions Zero Downtime Deployment
 Big Data Automation Message Queue Machine Learning The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Event Sourcing
+Great things never come from comfort zones. The only way to do great work is to love what you do. GraphQL NLP A/B Testing Algorithm Monitoring Backend
