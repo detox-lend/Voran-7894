@@ -17,3 +17,4 @@ Python Algorithm OAuth Great things never come from comfort zones. Virtual Machi
 Python Automation Performance Don't be afraid to give up the good to go for the great. Pull Request Deployment Zero Downtime Deployment
 Edge Computing Lambda Functions Event-driven Architecture Replica Set Load Testing Deployment A/B Testing Docker GraphQL Content Delivery Network Success is not in what you have, but who you are.
 Big Data API Virtual Machines Don't be afraid to give up the good to go for the great. API Gateway Docker Agile Kubernetes Artificial Intelligence
+Multi-threading Event Sourcing Message Queue Agile Success is how high you bounce when you hit bottom. WebSockets Latency Optimization OAuth A/B Testing I find that the harder I work, the more luck I seem to have.
