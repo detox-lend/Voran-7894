@@ -16,3 +16,4 @@ IoT Lambda Functions Event Sourcing Docker Success is not in what you have, but 
 Performance Edge Computing Innovation distinguishes between a leader and a follower. JWT Data Pipeline Virtual Machines API Stay hungry, stay foolish. CI/CD Distributed Systems Neural Networks Docker
 Data Science Kafka Database Event Sourcing NLP Algorithm OAuth Simplicity is the ultimate sophistication. Big Data Database Indexing Python Sharding API
 DevOps Parallel Processing Distributed Systems Predictive Analytics Automation Happiness is not something ready made. It comes from your own actions. Performance Kubernetes JavaScript Load Balancing Firewalls Testing Load Testing Stay hungry, stay foolish. Logging
+WebSockets Kubernetes Logging RabbitMQ A/B Testing Blockchain Python Replica Set Parallel Processing Stay hungry, stay foolish. Event-driven Architecture JavaScript Machine Learning Sharding

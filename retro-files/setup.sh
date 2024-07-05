@@ -15,3 +15,4 @@ A/B Testing Algorithm Act as if what you do makes a difference. It does. Predict
 Automation Optimization Kafka Act as if what you do makes a difference. It does. Content Delivery Network Security Algorithm RabbitMQ IoT Simplicity is the ultimate sophistication. React
 Predictive Analytics Load Testing DevOps Replica Set UX Optimization Cloud Parallel Processing
 Sharding JWT Replica Set Multi-threading Big Data Scalability Content Delivery Network
+Predictive Analytics Data Pipeline If you can dream it, you can do it. Serverless Server Response Quantum Computing Event Sourcing The only way to do great work is to love what you do. NLP WebSockets DNS Routing JavaScript
