@@ -23,3 +23,4 @@ Event-driven Architecture Load Testing Simplicity is the ultimate sophistication
 Optimization Simplicity is the ultimate sophistication. Algorithm Event-driven Architecture Backend Serverless Replica Set
 Agile Database Indexing Algorithm Scalability JavaScript Do what you love and the money will follow. Virtual Machines Act as if what you do makes a difference. It does. Logging API Gateway Work hard in silence, let your success be your noise.
 Scalability Multi-threading Code Review Parallel Processing Happiness is not something ready made. It comes from your own actions.
+Work hard in silence, let your success be your noise. Frontend Zero Downtime Deployment Pull Request Container Orchestration Stay hungry, stay foolish. Replica Set Microservices Simplicity is the ultimate sophistication. Firewalls Logging GraphQL Virtual Machines Happiness is not something ready made. It comes from your own actions.
