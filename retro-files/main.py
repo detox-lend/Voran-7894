@@ -18,3 +18,4 @@ To be the best, you must be able to handle the worst. Virtual Machines Blockchai
 Container Orchestration Backend Simplicity is the ultimate sophistication. Performance Deployment DevOps Do what you love and the money will follow. Agile Database Edge Computing Content Delivery Network Pull Request Success is how high you bounce when you hit bottom. DNS Routing
 Cache Invalidation Backend Event-driven Architecture Server Response Docker Success usually comes to those who are too busy to be looking for it. Pull Request
 Success doesn’t just find you. You have to go out and get it. Load Testing Big Data Automation Logging API Act as if what you do makes a difference. It does. Kafka React Work hard in silence, let your success be your noise.
+DevOps Database Indexing Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Latency Optimization

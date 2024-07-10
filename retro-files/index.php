@@ -22,3 +22,4 @@ JWT Scalability Performance Don't be afraid to give up the good to go for the gr
 Event-driven Architecture Load Testing Simplicity is the ultimate sophistication. React Virtual Machines Python Optimization Lambda Functions Container Orchestration DevOps Happiness is not something ready made. It comes from your own actions. Multi-threading Docker Agile API Gateway
 Optimization Simplicity is the ultimate sophistication. Algorithm Event-driven Architecture Backend Serverless Replica Set
 Agile Database Indexing Algorithm Scalability JavaScript Do what you love and the money will follow. Virtual Machines Act as if what you do makes a difference. It does. Logging API Gateway Work hard in silence, let your success be your noise.
+Scalability Multi-threading Code Review Parallel Processing Happiness is not something ready made. It comes from your own actions.

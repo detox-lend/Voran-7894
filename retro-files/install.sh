@@ -16,3 +16,4 @@ Parallel Processing DevOps Content Delivery Network OAuth Machine Learning
 Docker Python Happiness is not something ready made. It comes from your own actions. Distributed Systems Firewalls Parallel Processing Load Balancing Cache Invalidation A/B Testing Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Load Testing
 Distributed Systems Content Delivery Network UX Optimization Pull Request Cloud I find that the harder I work, the more luck I seem to have. NLP
 Optimization Stay hungry, stay foolish. API Gateway JWT Database Kubernetes Machine Learning Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Version Control
+Success is not in what you have, but who you are. Database If you can dream it, you can do it. Docker Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it.
