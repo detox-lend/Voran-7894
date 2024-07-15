@@ -14,3 +14,4 @@ Python Frontend Multi-threading Testing Code Review Success usually comes to tho
 OAuth Kafka Database Neural Networks Success usually comes to those who are too busy to be looking for it. API Gateway Event Sourcing Distributed Systems
 Multi-threading Event Sourcing Algorithm Sharding Machine Learning Automation CI/CD Difficult roads often lead to beautiful destinations. Parallel Processing
 Docker Serverless Don't be afraid to give up the good to go for the great. Server Response Simplicity is the ultimate sophistication. Great things never come from comfort zones. UX Optimization DevOps Cache Invalidation Container Orchestration
+Machine Learning Great things never come from comfort zones. Work hard in silence, let your success be your noise. JWT Success usually comes to those who are too busy to be looking for it. Firewalls Cloud Functions Sharding OAuth Cache Invalidation Performance Pull Request Blockchain Testing Code Review
