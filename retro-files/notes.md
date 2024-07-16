@@ -5,3 +5,4 @@ RabbitMQ Stay hungry, stay foolish. Code Review Don't be afraid to give up the g
 Load Testing A/B Testing WebSockets If you can dream it, you can do it. JWT Blockchain Don't be afraid to give up the good to go for the great. Scalability Docker Difficult roads often lead to beautiful destinations.
 Data Pipeline I find that the harder I work, the more luck I seem to have. Framework Docker Server Response To be the best, you must be able to handle the worst. Cloud
 Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Sharding Python Distributed Systems Version Control
+Replica Set Event-driven Architecture Cloud Distributed Systems Container Orchestration Data Pipeline Automation Firewalls IoT
