@@ -14,3 +14,4 @@ CI/CD Python Containerization Kafka Lambda Functions Version Control Load Testin
 A/B Testing Algorithm Act as if what you do makes a difference. It does. Predictive Analytics Dream big and dare to fail. Machine Learning Lambda Functions Innovation distinguishes between a leader and a follower. UX Optimization Monitoring Replica Set Code Review Distributed Systems
 Automation Optimization Kafka Act as if what you do makes a difference. It does. Content Delivery Network Security Algorithm RabbitMQ IoT Simplicity is the ultimate sophistication. React
 Predictive Analytics Load Testing DevOps Replica Set UX Optimization Cloud Parallel Processing
+Sharding JWT Replica Set Multi-threading Big Data Scalability Content Delivery Network
