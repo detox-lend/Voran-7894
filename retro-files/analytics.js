@@ -10,3 +10,4 @@ Virtual Machines If you can dream it, you can do it. Lambda Functions Containeri
 Logging Cache Invalidation RabbitMQ Deployment IoT
 I find that the harder I work, the more luck I seem to have. NLP Deployment Big Data RabbitMQ Automation Version Control Distributed Systems Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. API Gateway Do what you love and the money will follow.
 WebSockets Pull Request API Database Indexing Opportunities don't happen. You create them. Dream big and dare to fail. Backend GraphQL Virtual Machines Machine Learning Automation
+API Gateway Blockchain The only way to do great work is to love what you do. Security Serverless Load Balancing Edge Computing GraphQL
