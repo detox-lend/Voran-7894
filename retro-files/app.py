@@ -12,3 +12,4 @@ Do what you love and the money will follow. Multi-threading Automation WebSocket
 The only way to do great work is to love what you do. OAuth Data Pipeline Kafka DevOps Replica Set GraphQL WebSockets Success doesn’t just find you. You have to go out and get it.
 Python Frontend Multi-threading Testing Code Review Success usually comes to those who are too busy to be looking for it. Kafka
 OAuth Kafka Database Neural Networks Success usually comes to those who are too busy to be looking for it. API Gateway Event Sourcing Distributed Systems
+Multi-threading Event Sourcing Algorithm Sharding Machine Learning Automation CI/CD Difficult roads often lead to beautiful destinations. Parallel Processing
