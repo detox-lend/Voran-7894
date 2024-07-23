@@ -16,3 +16,4 @@ UX Optimization DevOps Event Sourcing Message Queue The only way to do great wor
 Python Algorithm OAuth Great things never come from comfort zones. Virtual Machines Act as if what you do makes a difference. It does. Parallel Processing Backend Artificial Intelligence API NLP
 Python Automation Performance Don't be afraid to give up the good to go for the great. Pull Request Deployment Zero Downtime Deployment
 Edge Computing Lambda Functions Event-driven Architecture Replica Set Load Testing Deployment A/B Testing Docker GraphQL Content Delivery Network Success is not in what you have, but who you are.
+Big Data API Virtual Machines Don't be afraid to give up the good to go for the great. API Gateway Docker Agile Kubernetes Artificial Intelligence
