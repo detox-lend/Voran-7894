@@ -11,3 +11,4 @@ JavaScript OAuth Cache Invalidation Pull Request Deployment Replica Set Success 
 JWT Agile Quantum Computing OAuth Code Review To be the best, you must be able to handle the worst. Firewalls
 Replica Set Load Balancing Message Queue Virtual Machines Cache Invalidation
 Containerization IoT Success is not in what you have, but who you are. WebSockets Cache Invalidation Great things never come from comfort zones. JWT Predictive Analytics Load Testing
+Quantum Computing Predictive Analytics Microservices Code Review Act as if what you do makes a difference. It does. Frontend Message Queue Kafka Serverless Don't be afraid to give up the good to go for the great. Version Control Firewalls Replica Set Success is how high you bounce when you hit bottom.
