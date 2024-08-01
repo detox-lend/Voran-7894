@@ -12,3 +12,4 @@ Neural Networks DevOps Data Science WebSockets Data Pipeline Version Control Mic
 Framework Latency Optimization GraphQL Don't be afraid to give up the good to go for the great. RabbitMQ JavaScript Firewalls
 Algorithm Monitoring Load Balancing Happiness is not something ready made. It comes from your own actions. Event Sourcing Automation React Big Data Server Response A/B Testing JWT
 Cloud Functions OAuth API Gateway Security Success is not in what you have, but who you are. Message Queue Container Orchestration A/B Testing Content Delivery Network
+API Gateway Framework Replica Set A/B Testing Quantum Computing Containerization WebSockets Testing Pull Request UX Optimization Predictive Analytics Server Response Kafka
