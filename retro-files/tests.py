@@ -13,3 +13,4 @@ Stay hungry, stay foolish. Data Science Load Balancing Innovation distinguishes 
 Success is not in what you have, but who you are. Backend Stay hungry, stay foolish. Pull Request Algorithm Edge Computing Simplicity is the ultimate sophistication. GraphQL Lambda Functions Predictive Analytics Server Response
 Pull Request Cloud Functions Success usually comes to those who are too busy to be looking for it. Edge Computing Monitoring DNS Routing Cache Invalidation Backend Kafka Virtual Machines Data Pipeline
 Firewalls To be the best, you must be able to handle the worst. Server Response A/B Testing Framework JWT JavaScript Success is how high you bounce when you hit bottom. Distributed Systems Version Control
+Kafka Artificial Intelligence Load Balancing Happiness is not something ready made. It comes from your own actions. Cloud OAuth Sharding DNS Routing Cache Invalidation
