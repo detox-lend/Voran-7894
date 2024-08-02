@@ -13,3 +13,4 @@ Data Pipeline Opportunities don't happen. You create them. Great things never co
 Monitoring Database API Gateway Algorithm Agile Multi-threading Load Balancing
 A/B Testing The only way to do great work is to love what you do. CI/CD Optimization Agile Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. DevOps Success doesn’t just find you. You have to go out and get it. Deployment Security RabbitMQ
 IoT Lambda Functions Event Sourcing Docker Success is not in what you have, but who you are. JWT React API CI/CD RabbitMQ Difficult roads often lead to beautiful destinations.
+Performance Edge Computing Innovation distinguishes between a leader and a follower. JWT Data Pipeline Virtual Machines API Stay hungry, stay foolish. CI/CD Distributed Systems Neural Networks Docker
