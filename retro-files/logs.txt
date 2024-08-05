@@ -14,3 +14,4 @@ Message Queue Sharding API Gateway Containerization Neural Networks Dream big an
 Cache Invalidation UX Optimization Kafka The only way to do great work is to love what you do. React
 React JavaScript Testing If you can dream it, you can do it. Cache Invalidation Success is not in what you have, but who you are. Deployment Containerization Success usually comes to those who are too busy to be looking for it. NLP Automation Multi-threading Content Delivery Network Difficult roads often lead to beautiful destinations.
 API Gateway Code Review Testing Quantum Computing Deployment Pull Request Success usually comes to those who are too busy to be looking for it.
+Containerization JavaScript JWT A/B Testing Neural Networks If you can dream it, you can do it. Database Indexing Kubernetes Work hard in silence, let your success be your noise. Parallel Processing Blockchain Frontend
