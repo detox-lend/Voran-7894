@@ -7,3 +7,4 @@ Multi-threading Distributed Systems Container Orchestration Algorithm IoT Don't 
 Event-driven Architecture Database Neural Networks Data Pipeline Optimization Artificial Intelligence Agile Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Replica Set Security
 WebSockets Kubernetes Data Science OAuth Microservices A/B Testing Containerization Stay hungry, stay foolish. Firewalls CI/CD Parallel Processing Success usually comes to those who are too busy to be looking for it. RabbitMQ Zero Downtime Deployment Act as if what you do makes a difference. It does.
 Artificial Intelligence GraphQL Frontend DNS Routing Load Balancing
+Blockchain Great things never come from comfort zones. Work hard in silence, let your success be your noise. Database Indexing Python CI/CD Automation Message Queue Kubernetes Do what you love and the money will follow. Data Science Predictive Analytics UX Optimization A/B Testing

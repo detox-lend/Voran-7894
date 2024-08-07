@@ -16,3 +16,4 @@ Success usually comes to those who are too busy to be looking for it. Python Clo
 Performance A/B Testing WebSockets To be the best, you must be able to handle the worst. IoT Zero Downtime Deployment Neural Networks Deployment
 Framework Docker Happiness is not something ready made. It comes from your own actions. CI/CD Event-driven Architecture API Gateway Do what you love and the money will follow. Machine Learning DevOps Replica Set Python Event Sourcing
 Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Performance Predictive Analytics Serverless Event Sourcing UX Optimization Docker Replica Set Multi-threading Innovation distinguishes between a leader and a follower. Database Indexing If you can dream it, you can do it.
+Data Science Data Pipeline Cloud Functions Security Backend Kafka
