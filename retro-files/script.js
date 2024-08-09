@@ -6,3 +6,4 @@ Load Testing Algorithm Edge Computing Success is how high you bounce when you hi
 Multi-threading Distributed Systems Container Orchestration Algorithm IoT Don't be afraid to give up the good to go for the great. UX Optimization Python Replica Set Security
 Event-driven Architecture Database Neural Networks Data Pipeline Optimization Artificial Intelligence Agile Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Replica Set Security
 WebSockets Kubernetes Data Science OAuth Microservices A/B Testing Containerization Stay hungry, stay foolish. Firewalls CI/CD Parallel Processing Success usually comes to those who are too busy to be looking for it. RabbitMQ Zero Downtime Deployment Act as if what you do makes a difference. It does.
+Artificial Intelligence GraphQL Frontend DNS Routing Load Balancing
