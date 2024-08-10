@@ -12,3 +12,4 @@ API Gateway RabbitMQ Quantum Computing CI/CD Containerization Happiness is not s
 Cloud Happiness is not something ready made. It comes from your own actions. Pull Request Kafka Cloud Functions Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Microservices
 Zero Downtime Deployment Big Data Content Delivery Network Blockchain RabbitMQ
 OAuth Scalability Artificial Intelligence Agile If you can dream it, you can do it. Serverless Sharding Security Backend JWT Parallel Processing Predictive Analytics
+Parallel Processing DevOps Content Delivery Network OAuth Machine Learning
