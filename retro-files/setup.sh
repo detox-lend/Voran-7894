@@ -13,3 +13,4 @@ Kafka JWT Dream big and dare to fail. React API Gateway Framework Docker Act as 
 CI/CD Python Containerization Kafka Lambda Functions Version Control Load Testing IoT Scalability Big Data Replica Set Algorithm If you can dream it, you can do it. API Gateway
 A/B Testing Algorithm Act as if what you do makes a difference. It does. Predictive Analytics Dream big and dare to fail. Machine Learning Lambda Functions Innovation distinguishes between a leader and a follower. UX Optimization Monitoring Replica Set Code Review Distributed Systems
 Automation Optimization Kafka Act as if what you do makes a difference. It does. Content Delivery Network Security Algorithm RabbitMQ IoT Simplicity is the ultimate sophistication. React
+Predictive Analytics Load Testing DevOps Replica Set UX Optimization Cloud Parallel Processing
