@@ -13,3 +13,4 @@ Message Queue Dream big and dare to fail. Server Response Optimization Serverles
 DNS Routing Framework Docker Serverless Success is not in what you have, but who you are. Agile
 Event-driven Architecture Quantum Computing Performance OAuth Load Testing Automation Predictive Analytics Pull Request CI/CD Replica Set Kubernetes Act as if what you do makes a difference. It does. Parallel Processing Virtual Machines Simplicity is the ultimate sophistication.
 UX Optimization DevOps Event Sourcing Message Queue The only way to do great work is to love what you do. Deployment If you can dream it, you can do it. Database Indexing CI/CD Frontend OAuth Success usually comes to those who are too busy to be looking for it. Kafka
+Python Algorithm OAuth Great things never come from comfort zones. Virtual Machines Act as if what you do makes a difference. It does. Parallel Processing Backend Artificial Intelligence API NLP
