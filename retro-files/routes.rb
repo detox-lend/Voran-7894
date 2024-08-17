@@ -10,3 +10,4 @@ Monitoring Artificial Intelligence DevOps API Gateway Event-driven Architecture 
 Edge Computing React Event Sourcing Neural Networks Performance Stay hungry, stay foolish. Container Orchestration Testing Kubernetes Security Firewalls Optimization IoT
 Great things never come from comfort zones. Replica Set OAuth Event-driven Architecture Multi-threading NLP Data Science Success doesn’t just find you. You have to go out and get it. Load Balancing Docker
 IoT Container Orchestration Event-driven Architecture Message Queue DevOps WebSockets Opportunities don't happen. You create them. Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Sharding NLP Framework Optimization Database
+DNS Routing GraphQL Frontend Big Data Lambda Functions Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Neural Networks Cloud Functions Zero Downtime Deployment
