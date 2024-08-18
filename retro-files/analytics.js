@@ -8,3 +8,4 @@ Backend Sharding DNS Routing Algorithm Replica Set Do what you love and the mone
 Load Testing Containerization Happiness is not something ready made. It comes from your own actions. DevOps Artificial Intelligence
 Virtual Machines If you can dream it, you can do it. Lambda Functions Containerization Load Balancing Monitoring Opportunities don't happen. You create them. Pull Request I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Blockchain Scalability OAuth Performance Success is how high you bounce when you hit bottom.
 Logging Cache Invalidation RabbitMQ Deployment IoT
+I find that the harder I work, the more luck I seem to have. NLP Deployment Big Data RabbitMQ Automation Version Control Distributed Systems Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. API Gateway Do what you love and the money will follow.
