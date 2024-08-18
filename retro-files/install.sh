@@ -10,3 +10,4 @@ Data Science Quantum Computing Event-driven Architecture Kafka Simplicity is the
 Container Orchestration API Gateway Deployment Success doesn’t just find you. You have to go out and get it. OAuth
 API Gateway RabbitMQ Quantum Computing CI/CD Containerization Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Agile Python Do what you love and the money will follow.
 Cloud Happiness is not something ready made. It comes from your own actions. Pull Request Kafka Cloud Functions Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Microservices
+Zero Downtime Deployment Big Data Content Delivery Network Blockchain RabbitMQ
