@@ -16,3 +16,4 @@ Logging IoT Microservices Parallel Processing Machine Learning Version Control C
 Framework Success doesn’t just find you. You have to go out and get it. Frontend Simplicity is the ultimate sophistication. DNS Routing JWT GraphQL
 To be the best, you must be able to handle the worst. Virtual Machines Blockchain Scalability Data Science Big Data
 Container Orchestration Backend Simplicity is the ultimate sophistication. Performance Deployment DevOps Do what you love and the money will follow. Agile Database Edge Computing Content Delivery Network Pull Request Success is how high you bounce when you hit bottom. DNS Routing
+Cache Invalidation Backend Event-driven Architecture Server Response Docker Success usually comes to those who are too busy to be looking for it. Pull Request
