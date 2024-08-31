@@ -11,3 +11,4 @@ Predictive Analytics Framework Cloud Load Testing React Big Data Data Science Ja
 Success usually comes to those who are too busy to be looking for it. API Gateway Quantum Computing Server Response Agile JWT Backend Virtual Machines Load Balancing Work hard in silence, let your success be your noise.
 Message Queue Dream big and dare to fail. Server Response Optimization Serverless Quantum Computing A/B Testing
 DNS Routing Framework Docker Serverless Success is not in what you have, but who you are. Agile
+Event-driven Architecture Quantum Computing Performance OAuth Load Testing Automation Predictive Analytics Pull Request CI/CD Replica Set Kubernetes Act as if what you do makes a difference. It does. Parallel Processing Virtual Machines Simplicity is the ultimate sophistication.
