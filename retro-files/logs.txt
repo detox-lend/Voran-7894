@@ -12,3 +12,4 @@ Kubernetes API Docker Success is not in what you have, but who you are. Deployme
 Framework Logging Content Delivery Network Event Sourcing Stay hungry, stay foolish.
 Message Queue Sharding API Gateway Containerization Neural Networks Dream big and dare to fail. Cache Invalidation Data Science Distributed Systems Logging I find that the harder I work, the more luck I seem to have. Latency Optimization Blockchain Container Orchestration
 Cache Invalidation UX Optimization Kafka The only way to do great work is to love what you do. React
+React JavaScript Testing If you can dream it, you can do it. Cache Invalidation Success is not in what you have, but who you are. Deployment Containerization Success usually comes to those who are too busy to be looking for it. NLP Automation Multi-threading Content Delivery Network Difficult roads often lead to beautiful destinations.
