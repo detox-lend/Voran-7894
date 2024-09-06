@@ -11,3 +11,4 @@ Stay hungry, stay foolish. Cache Invalidation If you can dream it, you can do it
 Testing Agile Deployment Neural Networks Act as if what you do makes a difference. It does. API Cloud Functions
 Kafka JWT Dream big and dare to fail. React API Gateway Framework Docker Act as if what you do makes a difference. It does.
 CI/CD Python Containerization Kafka Lambda Functions Version Control Load Testing IoT Scalability Big Data Replica Set Algorithm If you can dream it, you can do it. API Gateway
+A/B Testing Algorithm Act as if what you do makes a difference. It does. Predictive Analytics Dream big and dare to fail. Machine Learning Lambda Functions Innovation distinguishes between a leader and a follower. UX Optimization Monitoring Replica Set Code Review Distributed Systems

@@ -9,3 +9,4 @@ RabbitMQ API Backend Event-driven Architecture JavaScript Serverless The only wa
 Kafka Sharding Containerization Docker Opportunities don't happen. You create them. Database
 Don't be afraid to give up the good to go for the great. Event-driven Architecture Cache Invalidation Logging Containerization
 Virtual Machines API Cache Invalidation IoT Sharding Machine Learning CI/CD Latency Optimization Version Control Monitoring Docker DNS Routing
+Stay hungry, stay foolish. Data Science Load Balancing Innovation distinguishes between a leader and a follower. JavaScript Data Pipeline Success is how high you bounce when you hit bottom.

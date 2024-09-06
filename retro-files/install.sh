@@ -7,3 +7,4 @@ Security Don't be afraid to give up the good to go for the great. OAuth Database
 Don't be afraid to give up the good to go for the great. Data Science Load Testing WebSockets Success is not in what you have, but who you are. RabbitMQ Stay hungry, stay foolish. Do what you love and the money will follow. Cloud Functions Neural Networks
 Cache Invalidation The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Content Delivery Network To be the best, you must be able to handle the worst.
 Data Science Quantum Computing Event-driven Architecture Kafka Simplicity is the ultimate sophistication. Firewalls
+Container Orchestration API Gateway Deployment Success doesn’t just find you. You have to go out and get it. OAuth
