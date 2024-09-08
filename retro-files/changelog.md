@@ -8,3 +8,4 @@ GraphQL Distributed Systems Logging Simplicity is the ultimate sophistication. S
 WebSockets Server Response Container Orchestration DevOps Predictive Analytics Database Indexing JWT Success doesn’t just find you. You have to go out and get it. Deployment If you can dream it, you can do it. Neural Networks Performance Message Queue JavaScript
 API Work hard in silence, let your success be your noise. Multi-threading Framework Do what you love and the money will follow.
 Difficult roads often lead to beautiful destinations. Message Queue Load Testing Automation Performance Sharding Lambda Functions IoT Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment To be the best, you must be able to handle the worst. React Database Distributed Systems
+Pull Request Neural Networks Load Balancing Great things never come from comfort zones. DNS Routing Database Indexing Cloud Functions Act as if what you do makes a difference. It does.
