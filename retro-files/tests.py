@@ -8,3 +8,4 @@ Message Queue Cloud Functions Great things never come from comfort zones. OAuth 
 RabbitMQ API Backend Event-driven Architecture JavaScript Serverless The only way to do great work is to love what you do. Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Virtual Machines CI/CD Simplicity is the ultimate sophistication.
 Kafka Sharding Containerization Docker Opportunities don't happen. You create them. Database
 Don't be afraid to give up the good to go for the great. Event-driven Architecture Cache Invalidation Logging Containerization
+Virtual Machines API Cache Invalidation IoT Sharding Machine Learning CI/CD Latency Optimization Version Control Monitoring Docker DNS Routing

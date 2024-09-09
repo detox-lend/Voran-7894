@@ -10,3 +10,4 @@ GraphQL Success is not in what you have, but who you are. The only way to do gre
 Lambda Functions Database Indexing Testing Simplicity is the ultimate sophistication. DevOps Latency Optimization Sharding UX Optimization Quantum Computing Do what you love and the money will follow. Monitoring Act as if what you do makes a difference. It does. Virtual Machines
 Kubernetes API Docker Success is not in what you have, but who you are. Deployment Algorithm Edge Computing
 Framework Logging Content Delivery Network Event Sourcing Stay hungry, stay foolish.
+Message Queue Sharding API Gateway Containerization Neural Networks Dream big and dare to fail. Cache Invalidation Data Science Distributed Systems Logging I find that the harder I work, the more luck I seem to have. Latency Optimization Blockchain Container Orchestration

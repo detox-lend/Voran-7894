@@ -10,3 +10,4 @@ Data Science RabbitMQ Big Data Content Delivery Network Great things never come 
 Predictive Analytics Framework Cloud Load Testing React Big Data Data Science JavaScript Success is how high you bounce when you hit bottom. Database Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Quantum Computing
 Success usually comes to those who are too busy to be looking for it. API Gateway Quantum Computing Server Response Agile JWT Backend Virtual Machines Load Balancing Work hard in silence, let your success be your noise.
 Message Queue Dream big and dare to fail. Server Response Optimization Serverless Quantum Computing A/B Testing
+DNS Routing Framework Docker Serverless Success is not in what you have, but who you are. Agile
