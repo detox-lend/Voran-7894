@@ -9,3 +9,4 @@ Do what you love and the money will follow. If you can dream it, you can do it. 
 Database Indexing Performance Edge Computing Cloud Happiness is not something ready made. It comes from your own actions. Frontend GraphQL Automation Agile Backend Event-driven Architecture
 Stay hungry, stay foolish. Cache Invalidation If you can dream it, you can do it. Work hard in silence, let your success be your noise. Parallel Processing Performance Load Testing
 Testing Agile Deployment Neural Networks Act as if what you do makes a difference. It does. API Cloud Functions
+Kafka JWT Dream big and dare to fail. React API Gateway Framework Docker Act as if what you do makes a difference. It does.
