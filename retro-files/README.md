@@ -7,3 +7,4 @@ Containerization Success doesn’t just find you. You have to go out and get it. W
 Latency Optimization If you can dream it, you can do it. Replica Set Backend Microservices Machine Learning Server Response Message Queue The only way to do great work is to love what you do. React DevOps
 Happiness is not something ready made. It comes from your own actions. Testing Neural Networks Monitoring API Gateway Serverless Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Event Sourcing Multi-threading GraphQL
 Data Science RabbitMQ Big Data Content Delivery Network Great things never come from comfort zones. Event-driven Architecture Framework
+Predictive Analytics Framework Cloud Load Testing React Big Data Data Science JavaScript Success is how high you bounce when you hit bottom. Database Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Quantum Computing
