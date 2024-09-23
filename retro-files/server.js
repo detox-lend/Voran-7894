@@ -8,3 +8,4 @@ Data Pipeline Success doesn’t just find you. You have to go out and get it. Secu
 JavaScript Containerization Success is how high you bounce when you hit bottom. Scalability Parallel Processing Multi-threading Code Review WebSockets Opportunities don't happen. You create them.
 A/B Testing Sharding Load Testing Code Review Quantum Computing Kafka Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Algorithm Work hard in silence, let your success be your noise.
 Don't be afraid to give up the good to go for the great. Containerization DevOps Optimization React Lambda Functions
+Neural Networks DevOps Data Science WebSockets Data Pipeline Version Control Microservices React OAuth Parallel Processing Pull Request
