@@ -12,3 +12,4 @@ WebSockets Content Delivery Network Sharding Opportunities don't happen. You cre
 Artificial Intelligence Don't be afraid to give up the good to go for the great. Edge Computing Kafka Code Review Success is not in what you have, but who you are.
 Optimization Stay hungry, stay foolish. Edge Computing DevOps CI/CD API Gateway Load Balancing
 Difficult roads often lead to beautiful destinations. Server Response DevOps Load Testing Simplicity is the ultimate sophistication. Cloud Functions Edge Computing Kubernetes Zero Downtime Deployment Code Review CI/CD Cloud Work hard in silence, let your success be your noise.
+Success usually comes to those who are too busy to be looking for it. Python Cloud Functions UX Optimization Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Framework
