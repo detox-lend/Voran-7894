@@ -8,3 +8,4 @@ Deployment Load Balancing Version Control Docker Cloud Success usually comes to 
 WebSockets If you can dream it, you can do it. Sharding Success doesn’t just find you. You have to go out and get it. Logging API API Gateway Event Sourcing Cache Invalidation Deployment Serverless Backend Automation
 Server Response Success is not in what you have, but who you are. Distributed Systems Load Testing Containerization Framework DevOps Deployment
 Act as if what you do makes a difference. It does. RabbitMQ Cache Invalidation WebSockets The only way to do great work is to love what you do. Stay hungry, stay foolish. Lambda Functions Testing Security Opportunities don't happen. You create them. Data Science Replica Set Edge Computing Multi-threading
+Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Microservices Database Indexing Machine Learning Blockchain WebSockets Monitoring
