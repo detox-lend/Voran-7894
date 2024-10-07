@@ -7,3 +7,4 @@ Event-driven Architecture Big Data Great things never come from comfort zones. I
 Data Pipeline Success doesn’t just find you. You have to go out and get it. Security Backend RabbitMQ Innovation distinguishes between a leader and a follower. Cloud I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Data Science
 JavaScript Containerization Success is how high you bounce when you hit bottom. Scalability Parallel Processing Multi-threading Code Review WebSockets Opportunities don't happen. You create them.
 A/B Testing Sharding Load Testing Code Review Quantum Computing Kafka Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Algorithm Work hard in silence, let your success be your noise.
+Don't be afraid to give up the good to go for the great. Containerization DevOps Optimization React Lambda Functions
