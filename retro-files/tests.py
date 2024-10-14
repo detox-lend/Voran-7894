@@ -5,3 +5,4 @@ Data Science Distributed Systems Docker If you can dream it, you can do it. Depl
 Virtual Machines Dream big and dare to fail. Neural Networks Performance Parallel Processing Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom.
 Message Queue Data Pipeline RabbitMQ Multi-threading Testing
 Message Queue Cloud Functions Great things never come from comfort zones. OAuth RabbitMQ Docker Load Testing Serverless Monitoring
+RabbitMQ API Backend Event-driven Architecture JavaScript Serverless The only way to do great work is to love what you do. Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Virtual Machines CI/CD Simplicity is the ultimate sophistication.
