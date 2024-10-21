@@ -5,3 +5,4 @@ Success is how high you bounce when you hit bottom. UX Optimization Data Pipelin
 Parallel Processing JWT Data Pipeline Load Testing JavaScript Success is how high you bounce when you hit bottom. Firewalls Do what you love and the money will follow. RabbitMQ Code Review Cache Invalidation Performance Event-driven Architecture Testing
 React Artificial Intelligence Cloud Functions Algorithm Predictive Analytics
 Load Testing Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Database Indexing Security Blockchain
+DevOps Kubernetes Cloud Functions GraphQL Content Delivery Network Algorithm I find that the harder I work, the more luck I seem to have. Logging
