@@ -4,3 +4,4 @@ Zero Downtime Deployment Success doesn’t just find you. You have to go out and g
 Happiness is not something ready made. It comes from your own actions. Virtual Machines Act as if what you do makes a difference. It does. Framework Performance Parallel Processing Predictive Analytics Great things never come from comfort zones. Security
 Kubernetes Scalability NLP DNS Routing API Success is how high you bounce when you hit bottom. CI/CD Deployment Load Balancing Cache Invalidation Simplicity is the ultimate sophistication. Performance Message Queue Optimization
 Success is how high you bounce when you hit bottom. JWT Database Indexing Sharding Automation Cloud Latency Optimization Algorithm Lambda Functions Scalability Event Sourcing Parallel Processing
+GraphQL Distributed Systems Logging Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. DevOps JavaScript Machine Learning
