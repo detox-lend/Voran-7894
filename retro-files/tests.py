@@ -4,3 +4,4 @@ Version Control Agile Dream big and dare to fail. NLP To be the best, you must b
 Data Science Distributed Systems Docker If you can dream it, you can do it. Deployment Database Kafka Kubernetes Replica Set Cache Invalidation
 Virtual Machines Dream big and dare to fail. Neural Networks Performance Parallel Processing Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom.
 Message Queue Data Pipeline RabbitMQ Multi-threading Testing
+Message Queue Cloud Functions Great things never come from comfort zones. OAuth RabbitMQ Docker Load Testing Serverless Monitoring
