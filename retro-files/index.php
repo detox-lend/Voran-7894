@@ -9,3 +9,4 @@ NLP Data Pipeline Serverless Parallel Processing Success is not in what you have
 Artificial Intelligence Algorithm Edge Computing Cache Invalidation DNS Routing Data Pipeline
 I find that the harder I work, the more luck I seem to have. Agile Simplicity is the ultimate sophistication. DevOps Container Orchestration Zero Downtime Deployment Do what you love and the money will follow. Predictive Analytics
 WebSockets Content Delivery Network Sharding Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it.
+Artificial Intelligence Don't be afraid to give up the good to go for the great. Edge Computing Kafka Code Review Success is not in what you have, but who you are.
