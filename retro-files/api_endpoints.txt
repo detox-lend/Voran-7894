@@ -4,3 +4,4 @@ Success is how high you bounce when you hit bottom. Artificial Intelligence Inno
 Act as if what you do makes a difference. It does. Pull Request React Firewalls Don't be afraid to give up the good to go for the great. Code Review CI/CD Multi-threading JWT Zero Downtime Deployment
 Virtual Machines Testing Kafka Work hard in silence, let your success be your noise. Cloud Functions Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. IoT
 Cloud Functions API Gateway Innovation distinguishes between a leader and a follower. Multi-threading Frontend Machine Learning Data Science Latency Optimization
+Pull Request Docker Innovation distinguishes between a leader and a follower. React Backend OAuth Container Orchestration Kafka Algorithm IoT Security
