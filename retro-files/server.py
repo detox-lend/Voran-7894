@@ -6,3 +6,4 @@ Docker DevOps Containerization Message Queue GraphQL Stay hungry, stay foolish. 
 Automation GraphQL Firewalls Event-driven Architecture Edge Computing Big Data Code Review Monitoring Predictive Analytics Cloud
 Deployment Load Balancing Version Control Docker Cloud Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Framework Artificial Intelligence Quantum Computing Cache Invalidation Zero Downtime Deployment Multi-threading Latency Optimization
 WebSockets If you can dream it, you can do it. Sharding Success doesn’t just find you. You have to go out and get it. Logging API API Gateway Event Sourcing Cache Invalidation Deployment Serverless Backend Automation
+Server Response Success is not in what you have, but who you are. Distributed Systems Load Testing Containerization Framework DevOps Deployment
