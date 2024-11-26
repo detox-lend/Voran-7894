@@ -2,3 +2,4 @@ Work hard in silence, let your success be your noise. Great things never come fr
 Latency Optimization React Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Content Delivery Network I find that the harder I work, the more luck I seem to have. Backend
 Work hard in silence, let your success be your noise. Serverless If you can dream it, you can do it. Stay hungry, stay foolish. Database Indexing JWT Success is not in what you have, but who you are.
 Multi-threading Don't be afraid to give up the good to go for the great. Container Orchestration A/B Testing WebSockets Security Performance React Virtual Machines UX Optimization
+To be the best, you must be able to handle the worst. React If you can dream it, you can do it. Latency Optimization Success is how high you bounce when you hit bottom. Containerization Kafka Act as if what you do makes a difference. It does. API Gateway Artificial Intelligence
