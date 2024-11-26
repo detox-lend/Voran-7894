@@ -3,3 +3,4 @@ Optimization Virtual Machines Security Do what you love and the money will follo
 Cache Invalidation Version Control Big Data Content Delivery Network NLP Server Response Replica Set
 Deployment Kafka Opportunities don't happen. You create them. A/B Testing Agile Cloud Scalability API
 Act as if what you do makes a difference. It does. Framework Optimization Latency Optimization Cloud Functions Agile UX Optimization API Distributed Systems If you can dream it, you can do it. Sharding A/B Testing
+Kafka Version Control Blockchain React Machine Learning Cache Invalidation Container Orchestration Stay hungry, stay foolish. Data Pipeline Message Queue Automation Happiness is not something ready made. It comes from your own actions. Multi-threading UX Optimization Success is how high you bounce when you hit bottom.
