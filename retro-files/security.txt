@@ -2,3 +2,4 @@ DevOps Kafka Work hard in silence, let your success be your noise. Data Pipeline
 Optimization Virtual Machines Security Do what you love and the money will follow. DevOps Data Science Artificial Intelligence NLP
 Cache Invalidation Version Control Big Data Content Delivery Network NLP Server Response Replica Set
 Deployment Kafka Opportunities don't happen. You create them. A/B Testing Agile Cloud Scalability API
+Act as if what you do makes a difference. It does. Framework Optimization Latency Optimization Cloud Functions Agile UX Optimization API Distributed Systems If you can dream it, you can do it. Sharding A/B Testing
