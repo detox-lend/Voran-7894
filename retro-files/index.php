@@ -5,3 +5,4 @@ Load Testing Kafka Stay hungry, stay foolish. Cache Invalidation Monitoring Even
 Predictive Analytics Docker Agile Simplicity is the ultimate sophistication. Latency Optimization If you can dream it, you can do it. DevOps Scalability Monitoring I find that the harder I work, the more luck I seem to have. Cache Invalidation
 Machine Learning Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. DevOps Sharding
 Event Sourcing Cloud DNS Routing Pull Request Artificial Intelligence CI/CD Stay hungry, stay foolish. Content Delivery Network Big Data DevOps
+NLP Data Pipeline Serverless Parallel Processing Success is not in what you have, but who you are. Great things never come from comfort zones. Latency Optimization Success usually comes to those who are too busy to be looking for it. Cache Invalidation Distributed Systems WebSockets Neural Networks
