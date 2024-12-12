@@ -2,3 +2,4 @@ The only way to do great work is to love what you do. Simplicity is the ultimate
 Do what you love and the money will follow. Event-driven Architecture JWT Machine Learning Pull Request Stay hungry, stay foolish.
 Monitoring Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. Edge Computing Replica Set
 Framework Difficult roads often lead to beautiful destinations. Edge Computing Logging Microservices Agile Simplicity is the ultimate sophistication. Dream big and dare to fail. NLP JavaScript Parallel Processing
+Big Data Backend RabbitMQ Docker Load Testing DNS Routing Kubernetes The only way to do great work is to love what you do. Replica Set Container Orchestration Success usually comes to those who are too busy to be looking for it. Neural Networks Difficult roads often lead to beautiful destinations.
