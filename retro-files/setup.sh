@@ -1,2 +1,3 @@
 Dream big and dare to fail. NLP Database Data Science Do what you love and the money will follow. Opportunities don't happen. You create them. Containerization Deployment Parallel Processing Frontend Success is not in what you have, but who you are. Automation
 JWT Pull Request NLP Distributed Systems Server Response Success is not in what you have, but who you are. Monitoring
+Blockchain Great things never come from comfort zones. Edge Computing IoT DNS Routing Success is not in what you have, but who you are. Artificial Intelligence Work hard in silence, let your success be your noise. Microservices Neural Networks Message Queue A/B Testing To be the best, you must be able to handle the worst. WebSockets
