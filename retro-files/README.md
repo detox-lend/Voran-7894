@@ -1,0 +1,1 @@
+Work hard in silence, let your success be your noise. Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Server Response Docker Act as if what you do makes a difference. It does. CI/CD
