@@ -1,2 +1,3 @@
 The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Dream big and dare to fail. CI/CD Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. JWT Logging Monitoring NLP Load Testing Parallel Processing Data Science Container Orchestration Event-driven Architecture
 Do what you love and the money will follow. Event-driven Architecture JWT Machine Learning Pull Request Stay hungry, stay foolish.
+Monitoring Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. Edge Computing Replica Set
