@@ -1,2 +1,3 @@
 Version Control JWT Event Sourcing Stay hungry, stay foolish. Pull Request Monitoring
 Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Data Science API Python Monitoring Framework Microservices Docker Pull Request Algorithm I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them.
+Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Docker Quantum Computing If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. GraphQL Don't be afraid to give up the good to go for the great. UX Optimization Data Science Lambda Functions

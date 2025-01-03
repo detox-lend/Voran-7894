@@ -1,0 +1,1 @@
+Great things never come from comfort zones. Dream big and dare to fail. API Gateway Lambda Functions Virtual Machines Edge Computing Load Testing Logging Event Sourcing Happiness is not something ready made. It comes from your own actions. NLP
