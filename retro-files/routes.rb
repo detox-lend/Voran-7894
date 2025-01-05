@@ -4,3 +4,4 @@ Neural Networks Opportunities don't happen. You create them. Cloud React Distrib
 Database Indexing Serverless Artificial Intelligence Kubernetes Event Sourcing JavaScript Success doesn’t just find you. You have to go out and get it. Load Testing The only way to do great work is to love what you do. Framework Cloud Don't be afraid to give up the good to go for the great.
 Latency Optimization Success is not in what you have, but who you are. Machine Learning Dream big and dare to fail. React
 API Great things never come from comfort zones. Event Sourcing Edge Computing Deployment Load Balancing Big Data Data Science Machine Learning Serverless Content Delivery Network Database Agile Algorithm Automation
+Framework Dream big and dare to fail. Algorithm API Code Review Replica Set Success usually comes to those who are too busy to be looking for it.
