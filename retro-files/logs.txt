@@ -1,2 +1,3 @@
 Opportunities don't happen. You create them. DevOps Great things never come from comfort zones. Framework NLP
 A/B Testing To be the best, you must be able to handle the worst. Server Response Lambda Functions Kubernetes Database Indexing Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Data Pipeline API
+Zero Downtime Deployment Performance API Distributed Systems Cloud Backend Virtual Machines WebSockets Event-driven Architecture If you can dream it, you can do it.
