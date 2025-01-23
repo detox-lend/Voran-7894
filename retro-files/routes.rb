@@ -1,2 +1,3 @@
 Neural Networks Logging Load Testing Agile Latency Optimization OAuth Serverless Machine Learning Message Queue Event-driven Architecture Data Pipeline Replica Set DevOps Don't be afraid to give up the good to go for the great. Kubernetes
 WebSockets Monitoring To be the best, you must be able to handle the worst. Lambda Functions Happiness is not something ready made. It comes from your own actions. RabbitMQ React Agile I find that the harder I work, the more luck I seem to have. IoT Great things never come from comfort zones. Content Delivery Network GraphQL Don't be afraid to give up the good to go for the great. JWT
+Neural Networks Opportunities don't happen. You create them. Cloud React Distributed Systems Work hard in silence, let your success be your noise.
