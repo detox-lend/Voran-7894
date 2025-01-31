@@ -1,0 +1,1 @@
+The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. Dream big and dare to fail. CI/CD Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. JWT Logging Monitoring NLP Load Testing Parallel Processing Data Science Container Orchestration Event-driven Architecture
